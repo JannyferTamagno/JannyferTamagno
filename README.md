@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou a Jannyfer, sou graduada em Análise e Desenvolvimento de Sistemas e Pós-graduação em Tecnologias Aplicadas à Educação e Pós-graduação em Gestão de Produtos.
+- 👋 Oi, eu sou a Jannyfer, sou graduada em Análise e Desenvolvimento de Sistemas e Pós-graduação em Tecnologias Aplicadas à Educação e Gestão de Produtos.
 
 - 🌱 Estou em constante aprendizado.
 
