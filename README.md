@@ -58,7 +58,3 @@ Sou *desenvolvedora Front-end*. Sinta-se à vontade para me contatar e conversar
         <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
 </div>
-
-##
-
-  ![snake gif](https://github.com/JannyferTamagno/JannyferTamagno/blob/output/github-contribution-grid-snake.svg)
