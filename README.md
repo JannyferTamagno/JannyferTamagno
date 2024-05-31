@@ -8,34 +8,33 @@
 
 Sou *desenvolvedora Front-end*. Sinta-se à vontade para me contatar e conversar sobre projetos ou apenas para trocar ideias 🌻
 
-<div align="center">
-  <img src="https://tenor.com/pt-BR/view/typing-gif-14941312" alt="Gif de um homem digitando">
+<div align="left">
+  <img src="https://c.tenor.com/iAy-KwJB1DkAAAAC/tenor.gif" alt="Gif de um homem digitando">
 </div>
 
 </td></tr>
 </table>
 </p>
 
-<p align="right">
-<img src="https://views.whatilearened.today/views/github/JannyferTamagno/views.svg"> 
+<p align="left">
+<img src="https://views.whatilearened.today/views/github/JannyferTamagno/views.svg">
 <a href="https://github.com/JannyferTamagno/">
     <img src="https://img.shields.io/github/followers/JannyferTamagno?color=%234CC61E&label=GitHub%20Followers%20%3A"/>
 </a>
 </p>
 
-### Experiências
-
-- 👩‍🏫 Professora de TI - Senac
-- 📚 Analise e Desenvolvimento de Sistemas - FSG Faculdade da Serra Gaucha
-- 💻  Desenvolvedora Front-end - Tamagno Software Solutions
-
 ### Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
 
 ### Estou aprendendo
 
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 
 ##
 
@@ -50,20 +49,15 @@ Sou *desenvolvedora Front-end*. Sinta-se à vontade para me contatar e conversar
 
 ### Contatos
 
-<div align="center">
-    <a href = "mailto:jannyfertamagno@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
+<div align="left">
     <a href="https://www.linkedin.com/in/jannyfertamagno/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+    <a href = "mailto:jannyfertamagno@gmail.com">
+        <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
 </div>
 
 ##
 
   ![Snake animation](https://github.com/JannyferTamagno/JannyferTamagno/blob/output/github-contribution-grid-snake.svg)
-
-<!---
-JannyferTamagno/JannyferTamagno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
