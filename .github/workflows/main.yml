@@ -1,0 +1,18 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Executa todos os dias à meia-noite
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Generate snake game
+      uses: Platane/snk@v3
+      with:
+        github_user_name: JannyferTamagno
+        svg_out_path: dist/github-contribution-grid-snake.svg
+        gif_out_path: dist/github-contribution-grid-snake.gif
