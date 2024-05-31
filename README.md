@@ -61,4 +61,4 @@ Sou *desenvolvedora Front-end*. Sinta-se à vontade para me contatar e conversar
 
 ##
 
-  ![Snake animation](https://github.com/JannyferTamagno/JannyferTamagno/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/JannyferTamagno/JannyferTamagno/blob/output/github-contribution-grid-snake.svg)
